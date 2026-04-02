@@ -325,7 +325,7 @@ Students will choose one of three tracks to build a comprehensive final project.
 
 [Meet the Instructor]()
 
-[Week 1 – The Web3 & Blockchain Foundation]()
+[Week 1 – The Web3 & Blockchain Foundation](https://github.com/0xAfterSnow/Ethereum-Zero-to-Hero-A-12-Week-Web3-Bootcamp/tree/main/Week%201)
 
 [Week 2 – Blockchain Architecture, Nodes, and Consensus]()
 
